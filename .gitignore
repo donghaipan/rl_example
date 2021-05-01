@@ -1,0 +1,5 @@
+.DS_store
+.clang-format
+complie_commands.json
+build*/
+.cache/
